@@ -1,7 +1,7 @@
 # MyApp
 ## This is my new application
 ### i am excited 
-### My Team members
+### My Team members are
   * Test 1
     1. true
     
